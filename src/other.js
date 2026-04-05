@@ -1,0 +1,1 @@
+export const egg = "Helllo Egg";
